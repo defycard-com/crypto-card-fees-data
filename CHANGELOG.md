@@ -1,0 +1,1 @@
+- 2026-10-19: 39 facts (+39), 150 availability rows
