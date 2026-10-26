@@ -6,7 +6,7 @@ are currently published on https://defycard.com/ are exported: disputed and expi
 left out. Coverage is 4 issuer(s) (Crypto.com, Gemini, Plasma One, ether.fi Cash) — the site reviews more
 cards, but a card gets figures here only once it has a verified fact file.
 
-Exported 2026-10-20: 39 facts, 150 availability rows.
+Exported 2026-10-26: 39 facts, 150 availability rows.
 
 ## Files
 
@@ -38,4 +38,4 @@ Data from https://defycard.com/ — reviews:
 - Plasma One: https://defycard.com/reviews/
 - ether.fi Cash: https://defycard.com/reviews/ether-fi-cash-review/
 
-Example: "Source: DefyCard crypto card fees dataset (https://defycard.com/), exported 2026-10-20."
+Example: "Source: DefyCard crypto card fees dataset (https://defycard.com/), exported 2026-10-26."
