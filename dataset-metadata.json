@@ -1,0 +1,10 @@
+{
+  "title": "Crypto card fees — open dataset",
+  "subtitle": "Fees, rates, limits and availability of crypto cards, with sources",
+  "id": "defycard/crypto-card-fees-data",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ]
+}

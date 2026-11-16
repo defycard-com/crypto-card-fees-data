@@ -1,12 +1,22 @@
+---
+license: cc-by-4.0
+pretty_name: Crypto card fees — open dataset
+configs:
+- config_name: cards
+  data_files: cards.csv
+- config_name: availability
+  data_files: availability.csv
+---
+
 # Crypto card fees — open dataset
 
 Fees, rates, limits and availability of crypto cards, one row per fact, each with
 the issuer page it came from and the date it was last verified. Only facts that
 are currently published on https://defycard.com/ are exported: disputed and expired facts are
-left out. Coverage is 4 issuer(s) (Crypto.com, Gemini, Plasma One, ether.fi Cash) — the site reviews more
+left out. Coverage is 5 issuer(s) (Crypto.com, Gemini, Plasma One, Redotpay, ether.fi Cash) — the site reviews more
 cards, but a card gets figures here only once it has a verified fact file.
 
-Exported 2026-11-09: 39 facts, 148 availability rows.
+Exported 2026-11-16: 48 facts, 148 availability rows.
 
 ## Files
 
@@ -30,12 +40,19 @@ verified (date the list was compared with the issuer), source_url.
 
 CC BY 4.0 — see `LICENSE`. Attribution is the only condition.
 
+## Mirrors
+
+Canonical copy: https://github.com/defycard-com/crypto-card-fees-data. The same files are mirrored to
+HuggingFace (https://huggingface.co/datasets/defycard/crypto-card-fees-data) and Kaggle
+(https://www.kaggle.com/datasets/defycard/crypto-card-fees-data).
+
 ## How to cite
 
 Data from https://defycard.com/ — reviews:
 - Crypto.com: https://defycard.com/reviews/crypto-com-card-review/
 - Gemini: https://defycard.com/reviews/gemini-card-review/
 - Plasma One: https://defycard.com/reviews/
+- Redotpay: https://defycard.com/reviews/redotpay-review/
 - ether.fi Cash: https://defycard.com/reviews/ether-fi-cash-review/
 
-Example: "Source: DefyCard crypto card fees dataset (https://defycard.com/), exported 2026-11-09."
+Example: "Source: DefyCard crypto card fees dataset (https://defycard.com/), exported 2026-11-16."

@@ -2,3 +2,4 @@
 - 2026-10-26: 39 facts (+0), 150 availability rows
 - 2026-11-02: 39 facts (+0), 148 availability rows
 - 2026-11-09: 39 facts (+0), 148 availability rows
+- 2026-11-16: 48 facts (+9), 148 availability rows
